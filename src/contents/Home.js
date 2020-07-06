@@ -7,7 +7,7 @@ class Home extends Component {
     render() {
     return (
     <div className="condiv home">
-        <img src={profilepic} className="profilepic"></img>
+        <img src={profilepic} className="profilepic" alt="My_Profile_PIC"></img>
 
         <ReactTypingEffect className="typingeffect" text={['I am Nikhil Kommuri' , 'I am a Graduate Student in Computer Science' ]} 
          speed={100} eraseDelay={500}/>
