@@ -5,7 +5,8 @@ render() {
 return (
 <div className="condiv">
 <h1 className="subtopic">Contact Me</h1>
-<h3>Email  :   nikhil.kommuri@gmail.com</h3>
+<h3>Email me on :   nikhil.kommuri@gmail.com</h3>
+<h3>Call Me on :   (607)-340-5800 </h3>
 <Social />
 </div>
 )
